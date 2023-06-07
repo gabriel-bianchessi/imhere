@@ -5,12 +5,12 @@ export default function App() {
   return (
     <View style={{
       flex: 1,
-      backgroundColor: "#ccc",
+      backgroundColor: "#cccccc",
       padding: 24,
     }}>
       <Text style={{
         flex: 1,
-        color: "000"
+        color: "#000"
       }}>Open up App.tsx to start working on your aaapp!</Text>
       <StatusBar style="auto" />
     </View>
